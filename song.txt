@@ -19,3 +19,5 @@ More changes
 Changes to the Feature Branch
 
 Conflict Solving: Changes to the Main Branch
+
+Conflict Solving: Changes to Feature Branch
